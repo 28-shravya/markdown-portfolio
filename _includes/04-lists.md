@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+1. Travelling
+2. Driving
+3. Eating
+   1. Dosa
+   2. Golgoppa
+
+* Travelling
+* Driving
+* Eating
+  - Dosa
+  - Golgoppa
+  
