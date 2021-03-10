@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*The most basic programming languages are **C** and **C++**, they are known by all the programmers.*
+__Java__ is leading language these days.
